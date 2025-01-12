@@ -6,5 +6,5 @@ and then run stramlit run estimation_app.py in terminal after changing your dire
 
 uploaded image
 ![2 5](https://github.com/user-attachments/assets/6224efc1-3ad4-41ec-9e19-aa76246f028c)
-result image
+result after detecting pose :
 ![2 6](https://github.com/user-attachments/assets/02baa3fe-675c-4085-a7d2-ca06f15c2154)
